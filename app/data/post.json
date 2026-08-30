@@ -1,0 +1,17 @@
+[
+        {
+            "id": 1,
+            "task": "learn node.js",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "task": "learn SQL",
+            "completed": false      
+        },
+        {
+            "id": 3,
+            "task": "learn iOS development", 
+            "completed": false
+        }
+]
